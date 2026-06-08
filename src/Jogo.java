@@ -90,7 +90,7 @@ public class Jogo {
             System.out.println("[" + (i + 1) + "] " + mapa[i]);
         }
     }
-
+    //gay
     private String jogar() {
         String[] tipos = {"VAZIO", "OURO", "DIAMANTE","RUBI", "BURADO", "COBRA", "ESPINHOS"};
         int posicao = (int)(Math.random() * 7);
