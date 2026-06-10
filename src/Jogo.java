@@ -181,8 +181,4 @@ public class Jogo {
                         "Armadilhas encontradas: " + armadilhasencontrados + "\n" + 
                         "Posições vazias exploradas: " + vaziosencontrados + "\n");
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 19fa41ec9f58ee61e19f1097aad3eb4bde2fdde5
